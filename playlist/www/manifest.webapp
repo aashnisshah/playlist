@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "name": "Playlist App",
+  "description": "Firefox OS Apps Demo Day: Playlist App",
+  "launch_path": "/",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Aashni Shah",
+    "url": "http://aashni.me"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "es": {
+      "description": "Su nueva aplicación impresionante Open Web",
+      "developer": {
+        "url": "http://yourawesomeapp.com"
+      }
+    },
+    "it": {
+      "description": "Il vostro nuovo fantastico Open Web App",
+      "developer": {
+        "url": "http://yourawesomeapp.com"
+      }
+    }
+  },
+  "default_locale": "en"
+}
